@@ -196,3 +196,6 @@
    - Modelar domínios de forma efetiva
    - Basear projetos complexos em modelos do domínio
    - Conhecer os blocos de construção de DDD
+
+#Referência
+https://techguide.sh/pt-BR/path/csharp/
